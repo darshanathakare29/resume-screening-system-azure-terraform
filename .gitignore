@@ -1,1 +1,27 @@
 
+# Maven
+target/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+
+# Java
+*.class
